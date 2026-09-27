@@ -259,7 +259,7 @@ https://orbit30028.pages.dev/inbangla-sunbangla.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/CiZZK3n.png",colors bangla cinema-2
 #https://bdx-livestream.github.io/id30028/Colorsbanglacinema-2.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/CiZZK3n.png",colorsBDcinema-sdr
-http://live.balajibroadband.com:3500/live/1657.m3u8
+#http://live.balajibroadband.com:3500/live/1657.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/w8wZiAX.jpeg",JalshaMovieshd-bdx
 https://orbit30028.pages.dev/Orbit-Jalshamovieshd.m3u8
 
