@@ -103,6 +103,8 @@ https://orbit30028.pages.dev/inbangla-sunbangla.m3u8
 #http://live.balajibroadband.com:3500/live/1657.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/w8wZiAX.jpeg",JalshaMovieshd-bdx
 https://orbit30028.pages.dev/Orbit-Jalshamovieshd.m3u8
+#EXTINF:-1 group-title="Movie Channels" tvg-logo="https://assets-prod.services.toffeelive.com/-C7MX5UBv9knK3AHdKOi/posters/e37fef13-9bf3-4ecc-8b74-fca091874fa0.png",Zee Bangla Cinema
+https://orbit30028.pages.dev/toffee-zeebanglacinema.m3u8
 
 
 
